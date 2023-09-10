@@ -17,3 +17,38 @@ ZCZC W00 90 L10 Assignment #00
 ZCZC W00 120 L70 Studying for other courses
 ZCZC W00 480 L84 Relax, Rest, Nap, and Sleep
 ZCZC W00 30 L87 Breakfast/Lunch/Dinner/Snake
+ZCZC W01 480 L84 Sleeping
+ZCZC W01 30 L87 Having Breakfast
+ZCZC W01 30 L87 Having Lunch
+ZCZC W01 200 L98 Attending several classes
+ZCZC W01 30 L87 Having Dinner
+ZCZC W01 15 L11 Downloading and Installing VirtualBox 
+ZCZC W01 480 L84 Sleeping
+ZCZC W01 30 L87 Having Breakfast
+ZCZC W01 100 L02 Attending OS Class
+ZCZC W01 100 L02 Attending MPPI Class
+ZCZC W01 30 L87 Having Lunch
+ZCZC W01 100 L02 Attending Statprob Class
+ZCZC W01 30 L11 Installing Debian
+ZCZC W01 480 L84 Sleeping
+ZCZC W01 30 L87 Having Breakfast
+ZCZC W01 60 L73 Playing Games
+ZCZC W01 30 L87 Having Lunch
+ZCZC W01 200 L98 Attending several classes
+ZCZC W01 30 L87 Having Dinner
+ZCZC W01 30 L11 Troubleshooting "Bad Archive Mirror" Error While Installing Debian
+ZCZC W01 420 L84 Sleeping
+ZCZC W01 100 L02 Attending OS Class
+ZCZC W01 30 L73 Playing Games
+ZCZC W01 30 L70 Studying for SDA Lab
+ZCZC W01 30 L87 Having Lunch
+ZCZC W01 140 L98 Attending several classes
+ZCZC W01 30 L87 Having Dinner
+ZCZC W01 420 L84 Sleeping
+ZCZC W01 30 L87 Having Breakfast
+ZCZC W01 50 L02 Attending MPPI Class
+ZCZC W01 30 L87 Having Lunch
+ZCZC W01 30 L05 Studying for Quiz
+ZCZC W01 30 L87 Having Dinner
+ZCZC W01 420 L84 Sleeping
+ZCZC W01 30 L11 Continue Doing Assignment 1 Tasks
