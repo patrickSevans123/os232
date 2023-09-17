@@ -20,3 +20,9 @@ A video that consists of 30 lessons, for example: why study cyber security, demy
 
 7. [Malware: Difference Between Computer Viruses, Worms and Trojans](https://youtu.be/n8mbzU0X2nQ?si=0E8lKsEWMEUcZ5Wg)<br>
 A video explaining about types of malware and the differences between them. The animation and the explanation really help us to understand the concept. It's  only 3 minutes long.
+
+8. [Public and Private Keys - Signatures & Key Exchanges - Cryptography - Practical TLS](https://youtu.be/n8mbzU0X2nQ?si=HTCKhXPjS-SmuHmr)<br>
+It tells us what public and private keys are. It also discusses symmetric and asymmetric encryption.
+
+9. [How does RSA Cryptography work?](https://youtu.be/qph77bTKJTM?si=UeSpyXBtmPQrQ3HU)<br>
+A video discusses the algorithms behind RSA cryptography. The mathematical calculation is kind of confusing :sweat_smile:, but it fulfills my curiosity on how RSA cryptography works.
