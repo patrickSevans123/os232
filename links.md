@@ -13,4 +13,10 @@ A website that explains shell scripting. You can input a sample of code and it w
 It explains the most essential things about bash scripting. It is only **9 minutes long** and easy to understand.
 
 5. [Bash Scripting Tutorial for Begginers](https://youtu.be/tK9Oc6AEnR4?si=SmasGRBzUf0S9CHy)<br>
-A great video that teaches you deeper knowledge about bash scripting than video number three. It tells you how to do conditionals, for loop, functions, awk, and sed in bash scripting.
+It's a great video that teaches you deeper knowledge about bash scripting than video number three. It tells you how to do conditionals, for loop, functions, awk, and sed in bash scripting.
+
+6. [Cyber Security Full Course for Beginner](https://youtu.be/U_P23SqJaDc?si=Wxy3jr21qhXIR5en)<br>
+A video that consists of 30 lessons, for example: why study cyber security, demystifying computers and the internet (how computers and the internet work), malware, etc. This course is super easy to understand. It's not only helping me with the OS class but also helping me **how to manage my device's security** management, especially with setting up my password.
+
+7. [Malware: Difference Between Computer Viruses, Worms and Trojans](https://youtu.be/n8mbzU0X2nQ?si=0E8lKsEWMEUcZ5Wg)<br>
+A video explaining about types of malware and the differences between them. The animation and the explanation really help us to understand the concept. It's  only 3 minutes long.
