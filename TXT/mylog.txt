@@ -53,3 +53,58 @@ ZCZC W01 30 L87 Having Dinner
 ZCZC W01 420 L84 Sleeping
 ZCZC W01 30 L11 Continue Doing Assignment 1 Tasks
 ZCZC W01 30 L11 Editing links.md
+
+ZCZC W02 420 L84 Sleeping
+ZCZC W02 30 L87 Having Breakfast
+ZCZC W02 30 L87 Having Lunch
+ZCZC W02 200 L98 Attending several classes
+ZCZC W02 30 L87 Having Dinner
+ZCZC W02 5 L01 Checking Scele Announcement
+ZCZC W02 480 L84 Sleeping
+ZCZC W02 30 L87 Having Breakfast
+ZCZC W02 100 L02 Attending OS Class
+ZCZC W02 100 L02 Attending MPPI Class
+ZCZC W02 30 L87 Having Lunch
+ZCZC W02 100 L02 Attending Statprob Class
+ZCZC W02 400 L84 Sleeping
+ZCZC W02 30 L87 Having Breakfast
+ZCZC W02 30 L87 Having Lunch
+ZCZC W02 200 L98 Attending several classes
+ZCZC W02 30 L87 Having Dinner
+ZCZC W02 60 L73 Playing Games
+ZCZC W02 420 L84 Sleeping
+ZCZC W02 100 L02 Attending OS Class
+ZCZC W02 30 L73 Playing Games
+ZCZC W02 30 L87 Having Lunch
+ZCZC W02 140 L98 Attending several classes
+ZCZC W02 30 L87 Having Dinner
+ZCZC W02 420 L84 Sleeping
+ZCZC W02 30 L87 Having Breakfast
+ZCZC W02 50 L02 Attending MPPI Class
+ZCZC W02 30 L87 Having Lunch
+ZCZC W02 30 L05 Reading Slides for Quiz
+ZCZC W02 13 L05 OS Week 2 Quiz
+ZCZC W02 30 L87 Having Dinner
+ZCZC W02 120 L88 Playing Pingpong
+ZCZC W02 300 L84 Sleeping
+ZCZC W02 30 L12 Doing Week 2 Demo (Assignment 1)
+ZCZC W02 30 L87 Having Breakfast
+ZCZC W02 30 L05 Reading OS Concept book Chapter 16-17 (Assignment 1)
+ZCZC W02 60 L12 Watching Cyber Security Full Course (Assignment 1)
+ZCZC W02 30 L87 Having Lunch
+ZCZC W02 10 L27 Generating Keygen to Fill Google Form in Pop Quiz Forum
+ZCZC W02 10 L08 Asking My Friend about Pop Quiz
+ZCZC W02 300 L84 Sleeping
+ZCZC W02 10 L01 Filling A Form in Pop Quiz Forum.
+ZCZC W02 30 L87 Having Breakfast
+ZCZC W02 30 L12 Generating GnuPG Key Pair (Assignment 2)
+ZCZC W02 60 L06 Searching and Watching Several Videos about OS
+ZCZC W02 20 L12 Editing links.md (Assignment 3)
+ZCZC W02 30 L12 Reviewing 10 Links (Assignment 4)
+ZCZC W02 10 L43 Editing myrank.txt
+ZCZC W02 30 L87 Having Lunch
+ZCZC W02 10 L12 Script Downloading (Assignment 5)
+ZCZC W02 10 L01 Replying Pop Quiz Forum
+ZCZC W02 420 L84 Sleeping
+ZCZC W02 30 L87 Having Breakfast
+ZCZC W02 30 L41 Editing mylog.txt
