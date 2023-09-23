@@ -53,7 +53,6 @@ ZCZC W01 30 L87 Having Dinner
 ZCZC W01 420 L84 Sleeping
 ZCZC W01 30 L11 Continue Doing Assignment 1 Tasks
 ZCZC W01 30 L11 Editing links.md
-
 ZCZC W02 420 L84 Sleeping
 ZCZC W02 30 L87 Having Breakfast
 ZCZC W02 30 L87 Having Lunch
@@ -108,3 +107,51 @@ ZCZC W02 10 L01 Replying Pop Quiz Forum
 ZCZC W02 420 L84 Sleeping
 ZCZC W02 30 L87 Having Breakfast
 ZCZC W02 30 L41 Editing mylog.txt
+ZCZC W03 420 L84 Sleeping
+ZCZC W03 30 L87 Having Breakfast
+ZCZC W03 30 L87 Having Lunch
+ZCZC W03 200 L98 Attending several classes
+ZCZC W03 30 L87 Having Dinner
+ZCZC W03 480 L84 Sleeping
+ZCZC W03 30 L87 Having Breakfast
+ZCZC W03 100 L02 Attending OS Class
+ZCZC W03 100 L02 Attending MPPI Class
+ZCZC W03 30 L87 Having Lunch
+ZCZC W03 100 L02 Attending Statprob Class
+ZCZC W03 400 L84 Sleeping
+ZCZC W03 30 L87 Having Breakfast
+ZCZC W03 30 L87 Having Lunch
+ZCZC W03 200 L98 Attending several classes
+ZCZC W03 30 L87 Having Dinner
+ZCZC W03 60 L73 Playing Games
+ZCZC W03 420 L84 Sleeping
+ZCZC W03 100 L02 Attending OS Class
+ZCZC W03 5 L01 Checking Scele Announcement
+ZCZC W03 30 L87 Having Lunch
+ZCZC W03 140 L98 Attending several classes
+ZCZC W03 30 L87 Having Dinner
+ZCZC W03 420 L84 Sleeping
+ZCZC W03 30 L87 Having Breakfast
+ZCZC W03 50 L02 Attending MPPI Class
+ZCZC W03 5 L01 Checking Pop Quiz Forum
+ZCZC W03 30 L87 Having Lunch
+ZCZC W03 60 L05 Reading Slides for Quiz
+ZCZC W03 30 L87 Having Dinner
+ZCZC W03 300 L84 Sleeping
+ZCZC W03 30 L87 Having Breakfast
+ZCZC W03 30 L87 Having Lunch
+ZCZC W03 300 L84 Sleeping
+ZCZC W03 30 L87 Having Breakfast
+ZCZC W03 30 L87 Having Lunch
+ZCZC W03 10 L13 Doing demo
+ZCZC W03 40 L13 Add/Create An Extra Virtual Disk
+ZCZC W03 10 L13 Script Downloading
+ZCZC W03 30 L87 Having Dinner
+ZCZC W03 60 L06 Searching and Watching Several Videos about OS
+ZCZC W03 20 L13 Editing links.md
+ZCZC W03 20 L01 Doing Pop Quiz
+ZCZC W03 10 L08 Asking My Friend How to Make "Makefile" File
+ZCZC W03 5 L01 Replying Pop Quiz Forum
+ZCZC W03 40 L13 Reviewing 10 links
+ZCZC W03 10 L43 Editing myrank.txt
+ZCZC W02 15 L41 Editing mylog.txt
