@@ -34,20 +34,20 @@ A video discusses the algorithms behind RSA cryptography. The mathematical calcu
 
 ## WEEK 03
 
-7. [File System Concept](https://youtu.be/mzUyMy7Ihk0?si=byAIty6uLt5P4vuI)
+7. [File System Concept](https://youtu.be/mzUyMy7Ihk0?si=byAIty6uLt5P4vuI)<br>
 It explains the super basic concept of a file system in a computer. It mainly talks about the directory tree of the file system.
 
-8. [FAT32 vs exFAT vs NTFS - Windows File Systems](https://youtu.be/bYjQakUxeVY?si=fU19H8TfH4_id8_x)
+8. [FAT32 vs exFAT vs NTFS - Windows File Systems](https://youtu.be/bYjQakUxeVY?si=fU19H8TfH4_id8_x)<br>
 This video tells a little bit about the file system concept. It mainly discusses FAT32, exFAT, and NTFS, and the differences between them.
 
-9. [File System Interface](https://youtu.be/duUccxFcJ9g?si=3Go6tC4uHA9Jkm9q)
+9. [File System Interface](https://youtu.be/duUccxFcJ9g?si=3Go6tC4uHA9Jkm9q)<br>
 This video explains the file system interface based on the "dinosaur" PowerPoint slide.
 
-10. [File System Implementation](https://youtu.be/q1r_s72mBc4?si=6A7nG7vAqjWCKa3x)
+10. [File System Implementation](https://youtu.be/q1r_s72mBc4?si=6A7nG7vAqjWCKa3x)<br>
 It tells us about the file system implementation based on the "dinosaur" PowerPoint slide.
 
-11. [File System Internals](https://youtu.be/fyacGDXpi-Q?si=xUhnWj7qfFhUQy5b)
+11. [File System Internals](https://youtu.be/fyacGDXpi-Q?si=xUhnWj7qfFhUQy5b)<br>
 It discusses the file system implementation based on the "dinosaur" PowerPoint slide.
 
-12. [Linux File System Simply Explained](https://youtu.be/BUnb1PKKMBA?si=-FKpI56ywtH_coXL)
+12. [Linux File System Simply Explained](https://youtu.be/BUnb1PKKMBA?si=-FKpI56ywtH_coXL)<br>
 This video informs about the file system in Linux. It explains many Linux directories, for example, home, root, bin, sbin, lib, boot, etc.
