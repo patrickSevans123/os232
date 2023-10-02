@@ -155,3 +155,46 @@ ZCZC W03 5 L01 Replying Pop Quiz Forum
 ZCZC W03 40 L13 Reviewing 10 links
 ZCZC W03 10 L43 Editing myrank.txt
 ZCZC W02 15 L41 Editing mylog.txt
+ZCZC W04 30 L87 Having Breakfast
+ZCZC W04 30 L87 Having Lunch
+ZCZC W04 200 L98 Attending several classes
+ZCZC W04 30 L87 Having Dinner
+ZCZC W04 480 L84 Sleeping
+ZCZC W04 30 L87 Having Breakfast
+ZCZC W04 100 L02 Attending OS Class
+ZCZC W04 100 L02 Attending MPPI Class
+ZCZC W04 30 L87 Having Lunch
+ZCZC W04 5 L45 Repairing SHA256SUM
+ZCZC W04 30 L14 Doing Every Week 04 Assignments
+ZCZC W04 5 L01 Checking Pop Quiz Forum
+ZCZC W04 20 L01 Doing Pop Quiz
+ZCZC W04 100 L02 Attending Statprob Class
+ZCZC W0 400 L84 Sleeping
+ZCZC W04 30 L87 Having Breakfast
+ZCZC W04 30 L87 Having Lunch
+ZCZC W04 200 L98 Attending several classes
+ZCZC W04 30 L87 Having Dinner
+ZCZC W04 420 L84 Sleeping
+ZCZC W04 30 L87 Having Lunch
+ZCZC W04 30 L87 Having Dinner
+ZCZC W04 420 L84 Sleeping
+ZCZC W04 30 L87 Having Breakfast
+ZCZC W04 30 L87 Having Lunch
+ZCZC W04 30 L87 Having Dinner
+ZCZC W04 300 L84 Sleeping
+ZCZC W04 30 L87 Having Breakfast
+ZCZC W04 30 L87 Having Lunch
+ZCZC W04 300 L84 Sleeping
+ZCZC W04 30 L87 Having Breakfast
+ZCZC W04 30 L87 Having Lunch
+ZCZC W04 30 L87 Having Dinner
+ZCZC W04 420 L84 Sleeping
+ZCZC W04 30 L87 Having Breakfast
+ZCZC W04 30 L87 Having Lunch
+ZCZC W04 30 L87 Having Dinner
+ZCZC W04 40 L14 Reviewing 10 links
+ZCZC W04 60 L06 Searching and Watching Several Videos about OS
+ZCZC W04 20 L14 Editing links.md
+ZCZC W04 10 L43 Editing myrank.txt
+ZCZC W04 15 L41 Editing mylog.txt
+ZCZC W04 15 L44 Running myscript.sh
