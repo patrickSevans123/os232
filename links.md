@@ -51,3 +51,17 @@ It discusses the file system implementation based on the "dinosaur" PowerPoint s
 
 15. [Linux File System Simply Explained](https://youtu.be/BUnb1PKKMBA?si=-FKpI56ywtH_coXL)<br>
 This video informs about the file system in Linux. It explains many Linux directories, for example, home, root, bin, sbin, lib, boot, etc.
+
+## WEEK 04
+
+16. [you will never ask about pointers again after watching this video](https://youtu.be/2ybLD6_2gKM?si=x0d3a0jDMBayK44c)
+This video discusses the concept of pointer. It explains pointers in theoretical and practical aspects.
+
+17. [Static vs. Shared Libraries](https://youtu.be/-vp9cFQCQCo?si=z2wtEHbz67Nwv-89)
+This video talks about static and shared libraries. It mainly talks about the characteristics of static and shared libraries.
+
+18. [Lecture 22. Big Endian and Little Endian](https://youtu.be/T1C9Kj_78ek?si=4DVoHeydSHxYjdIt)
+This video discusses big endian and little endian methods in storing data. It explains how data is stored with the big endian and little endian methods.
+
+19. [Pointers and dynamic memory - stack vs heap](https://youtu.be/_8-ht2AKyH4?si=R6urLPnAYs9zwlOd)
+This video talks about the concept of application memory. It also discusses the storing method in stack and heap.
