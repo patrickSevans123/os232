@@ -154,7 +154,7 @@ ZCZC W03 10 L08 Asking My Friend How to Make "Makefile" File
 ZCZC W03 5 L01 Replying Pop Quiz Forum
 ZCZC W03 40 L13 Reviewing 10 links
 ZCZC W03 10 L43 Editing myrank.txt
-ZCZC W02 15 L41 Editing mylog.txt
+ZCZC W03 15 L41 Editing mylog.txt
 ZCZC W04 30 L87 Having Breakfast
 ZCZC W04 30 L87 Having Lunch
 ZCZC W04 200 L98 Attending several classes
@@ -198,3 +198,13 @@ ZCZC W04 20 L14 Editing links.md
 ZCZC W04 10 L43 Editing myrank.txt
 ZCZC W04 15 L41 Editing mylog.txt
 ZCZC W04 15 L44 Running myscript.sh
+ZCZC W05 5 L01 Checking Pop Quiz Forum
+ZCZC W05 60 L15 Doing Assignment 1, 2, and 3
+ZCZC W05 5 L01 Replying Pop Quiz 3
+ZCZC W05 30 L15 Doing Assignment 4
+ZCZC W05 60 L06 Searching and Watching Several Videos about OS
+ZCZC W05 20 L15 Editing links.md
+ZCZC W05 40 L15 Reviewing 10 links
+ZCZC W05 10 L43 Editing myrank.txt
+ZCZC W05 15 L41 Editing mylog.txt
+ZCZC W05 15 L44 Running myscript.sh
