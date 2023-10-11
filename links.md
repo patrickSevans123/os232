@@ -65,3 +65,11 @@ This video discusses big endian and little endian methods in storing data. It ex
 
 19. [Pointers and dynamic memory - stack vs heap](https://youtu.be/_8-ht2AKyH4?si=R6urLPnAYs9zwlOd)
 This video talks about the concept of application memory. It also discusses the storing method in stack and heap.
+
+## WEEK 05
+20. [Virtual Memory] (https://youtube.com/playlist?list=PLiwt1iVUib9s2Uo5BeYmwkDFUh70fJPxX&si=ObR42PTiJDCkGM2S)
+This playlist explains virtual memory and its details. It discusses how virtual memory works, page table, page fault, TLB, and any other things related to virtual memory.
+21. [Translation Lookaside Buffer (TLB) in Paging] (https://www.geeksforgeeks.org/translation-lookaside-buffer-tlb-in-paging/)
+This website explains what TLB is. It explains how TLB hit, how TLB miss, and how effective memory access time.
+22. [Page Table in OS] (https://www.javatpoint.com/os-page-table)
+It explains how page table works in OS. It also explains physical address, logical address, MMU, and other things related to page table.
