@@ -67,17 +67,17 @@ This video discusses big endian and little endian methods in storing data. It ex
 This video talks about the concept of application memory. It also discusses the storing method in stack and heap.
 
 ## WEEK 05
-20. [Virtual Memory] (https://youtube.com/playlist?list=PLiwt1iVUib9s2Uo5BeYmwkDFUh70fJPxX&si=ObR42PTiJDCkGM2S)<br>
+20. [Virtual Memory](https://youtube.com/playlist?list=PLiwt1iVUib9s2Uo5BeYmwkDFUh70fJPxX&si=ObR42PTiJDCkGM2S)<br>
 This playlist explains virtual memory and its details. It discusses how virtual memory works, page table, page fault, TLB, and any other things related to virtual memory.
-21. [Translation Lookaside Buffer (TLB) in Paging] (https://www.geeksforgeeks.org/translation-lookaside-buffer-tlb-in-paging/)<br>
+21. [Translation Lookaside Buffer (TLB) in Paging](https://www.geeksforgeeks.org/translation-lookaside-buffer-tlb-in-paging/)<br>
 This website explains what TLB is. It explains how TLB hit, how TLB miss, and how effective memory access time.
 22. [Page Table in OS] (https://www.javatpoint.com/os-page-table)<br>
 It explains how page table works in OS. It also explains physical address, logical address, MMU, and other things related to page table.
 
 ## WEEK 06
-23. [FANG Interview Question | Process vs Thread] (https://youtu.be/4rLW7zg21gI?si=CuJMP2R01JdKh4lK)<br>
+23. [FANG Interview Question | Process vs Thread](https://youtu.be/4rLW7zg21gI?si=CuJMP2R01JdKh4lK)<br>
 The video discusses the difference between processes and threads. It explains that a process is an executable file with its own memory address space, and when loaded into memory, it becomes an active process. Threads are units of execution within a process and share the same memory address space, allowing for communication but with the risk that one misbehaving thread can affect the entire process. The video also touches on context switching, the cost associated with it, and alternatives like fibers and coroutines to minimize it.
-24. [Process Management (Processes and Threads)] (https://youtu.be/OrM7nZcxXZU?si=YKp8E7pDoKA8Sqxh)<br>
+24. [Process Management (Processes and Threads)](https://youtu.be/OrM7nZcxXZU?si=YKp8E7pDoKA8Sqxh)<br>
 The video discusses the fundamental concepts of process management in operating systems, specifically focusing on processes and threads. It explains that a process is a program in execution, and a thread is the basic unit of execution within a process. The video also demonstrates how to view and understand processes and threads using the task manager and a program called "process explorer."
-25. [Concurrency in Operating System] (https://www.geeksforgeeks.org/concurrency-in-operating-system/)<br>
+25. [Concurrency in Operating System](https://www.geeksforgeeks.org/concurrency-in-operating-system/)<br>
 The article discusses concurrency in operating systems. It says that concurrency refers to the ability of an operating system to run multiple tasks or processes simultaneously. The article covers various concepts related to concurrency, such as processes, threads, mutexes, semaphores, and scheduling algorithms. It provides an overview of how concurrency is managed in operating systems, the challenges and issues associated with it, and different approaches and techniques for handling concurrency.
