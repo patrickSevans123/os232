@@ -218,3 +218,4 @@ ZCZC W06 40 L16 Reviewing 10 links
 ZCZC W06 10 L43 Editing myrank.txt
 ZCZC W06 15 L41 Editing mylog.txt
 ZCZC W06 15 L44 Running myscript.sh
+ZCZC W06 10 L01 Doing Pop Quiz 1
