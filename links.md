@@ -83,17 +83,26 @@ The video discusses the fundamental concepts of process management in operating 
 The article discusses concurrency in operating systems. It says that concurrency refers to the ability of an operating system to run multiple tasks or processes simultaneously. The article covers various concepts related to concurrency, such as processes, threads, mutexes, semaphores, and scheduling algorithms. It provides an overview of how concurrency is managed in operating systems, the challenges and issues associated with it, and different approaches and techniques for handling concurrency.
 
 ## WEEK 07
-26. [Introduction of Process Synchronization] (https://www.geeksforgeeks.org/introduction-of-process-synchronization/)
+26. [Introduction of Process Synchronization] (https://www.geeksforgeeks.org/introduction-of-process-synchronization/)<br>
 The article discusses the concept of process synchronization, which is the coordination of multiple processes in a multi-process system to ensure controlled and predictable access to shared resources, with a focus on resolving issues like race conditions and synchronization problems. The article covers various synchronization techniques, such as semaphores and monitors, and emphasizes the importance of process synchronization in modern operating systems. In summary, the video introduces the fundamental concepts of process synchronization, its objectives, challenges, and common synchronization techniques.
 
-27. [Introduction of Deadlock in Operating System] (https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)
+27. [Introduction of Deadlock in Operating System] (https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)<br>
 The article is an introduction to the concept of deadlock in operating systems. Deadlock is a situation where processes are blocked because they are holding resources and waiting for other resources that are held by different processes. The video discusses the conditions necessary for a deadlock to occur, methods for handling deadlock, such as prevention, detection, and recovery, and the concept of a safe state in the context of avoiding deadlocks.
 
-28. [Deadlock in Operating System | 4 Conditions of Deadlocks | Deadlock Handling - Process Management](https://youtu.be/UVo9mGARkhQ?si=nUHqRI4sEUD8wS1z)
+28. [Deadlock in Operating System | 4 Conditions of Deadlocks | Deadlock Handling - Process Management](https://youtu.be/UVo9mGARkhQ?si=nUHqRI4sEUD8wS1z)<br>
 The video explains the concept of deadlocks in operating systems, focusing on process management. The presenter discusses the conditions necessary for a deadlock to occur, such as mutual exclusion, hold and wait, no preemption, and circular wait. Additionally, the video covers strategies for handling deadlocks, including prevention, detection, and recovery methods.
 
-29. [Semaphores](https://youtu.be/XDIOC2EY5JE?si=AiYGbUbe3OTMSqD4)
+29. [Semaphores](https://youtu.be/XDIOC2EY5JE?si=AiYGbUbe3OTMSqD4)<br>
 The video is about semaphores, a software-based solution to synchronization problems in computer science. Semaphores are introduced, and their use in managing concurrent processes and achieving process synchronization is explained, along with the definitions of weight (p) and signal (v) operations for semaphores. The video covers binary semaphores and counting semaphores, explaining how they control access to resources with multiple instances. Semaphores are essential for process synchronization in operating systems.
 
-30. [What is a Race Condition (Computer Programming)?](https://youtu.be/KF8dF1QS8Go?si=DvXvX8BKH-ASm7vS)
+30. [What is a Race Condition (Computer Programming)?](https://youtu.be/KF8dF1QS8Go?si=DvXvX8BKH-ASm7vS)<br>
 The video discusses what a race condition is in computer programming, explaining that it occurs when two operations compete for execution at the same time. It highlights the importance of avoiding race conditions by writing solid code and mentions the potential security risks associated with them, such as the possibility of hackers exploiting these vulnerabilities to gain unauthorized access to networks.
+
+31. [Preemptive and Non-Preemptive Scheduling](https://youtu.be/4DhFmL-6SDA?si=0Tj7uYGTePURPYs-)<br>
+The video discusses preemptive and non-preemptive scheduling in the context of CPU scheduling. It explains the roles of the CPU scheduler and dispatcher, introduces key terms like dispatch latency, and explores four circumstances under which CPU scheduling decisions may occur. The distinction between preemptive and non-preemptive scheduling is explained based on whether the CPU is taken away from a process before its execution is complete, with situations 1 and 4 being non-preemptive and situations 2 and 3 being preemptive.
+
+32. [Process Scheduling](https://youtu.be/2h3eWaPx8SA?si=zOyYVEFd8mhQp_lQ)<br>
+The video is a lecture on process scheduling in operating systems. It covers the objectives of multiprogramming and time-sharing, emphasizing the need to maximize CPU utilization. The lecturer discusses the role of the process scheduler in selecting and assigning processes for execution on the CPU, as well as the concepts of job queue and ready queue in the context of process scheduling.
+
+33. [CPU Scheduling in Operating Systems](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/)<br>
+The article is a tutorial on CPU Scheduling in Operating Systems, covering various scheduling algorithms such as First Come First Serve (FCFS), Shortest Job First (SJF), Longest Job First (LJF), Priority Scheduling, Round Robin, Shortest Remaining Time First (SRTF), Longest Remaining Time First (LRTF), Highest Response Ratio Next (HRRN), and Multilevel Feedback Queue Scheduling (MLFQ). It explains the objectives of CPU scheduling algorithms, the need for CPU scheduling, and considerations in designing these algorithms to optimize CPU utilization, fairness, and efficiency. The video also includes a comparison between different CPU scheduling algorithms and an exercise involving multilevel feedback queue scheduling.
