@@ -77,9 +77,11 @@ It explains how page table works in OS. It also explains physical address, logic
 ## WEEK 06
 23. [FANG Interview Question | Process vs Thread](https://youtu.be/4rLW7zg21gI?si=CuJMP2R01JdKh4lK)<br>
 The video discusses the difference between processes and threads. It explains that a process is an executable file with its own memory address space, and when loaded into memory, it becomes an active process. Threads are units of execution within a process and share the same memory address space, allowing for communication but with the risk that one misbehaving thread can affect the entire process. The video also touches on context switching, the cost associated with it, and alternatives like fibers and coroutines to minimize it.
-24. [Process Management (Processes and Threads)](https://youtu.be/OrM7nZcxXZU?si=YKp8E7pDoKA8Sqxh)<br>
+
+25. [Process Management (Processes and Threads)](https://youtu.be/OrM7nZcxXZU?si=YKp8E7pDoKA8Sqxh)<br>
 The video discusses the fundamental concepts of process management in operating systems, specifically focusing on processes and threads. It explains that a process is a program in execution, and a thread is the basic unit of execution within a process. The video also demonstrates how to view and understand processes and threads using the task manager and a program called "process explorer."
-25. [Concurrency in Operating System](https://www.geeksforgeeks.org/concurrency-in-operating-system/)<br>
+
+27. [Concurrency in Operating System](https://www.geeksforgeeks.org/concurrency-in-operating-system/)<br>
 The article discusses concurrency in operating systems. It says that concurrency refers to the ability of an operating system to run multiple tasks or processes simultaneously. The article covers various concepts related to concurrency, such as processes, threads, mutexes, semaphores, and scheduling algorithms. It provides an overview of how concurrency is managed in operating systems, the challenges and issues associated with it, and different approaches and techniques for handling concurrency.
 
 ## WEEK 07
@@ -98,6 +100,7 @@ The video is about semaphores, a software-based solution to synchronization prob
 30. [What is a Race Condition (Computer Programming)?](https://youtu.be/KF8dF1QS8Go?si=DvXvX8BKH-ASm7vS)<br>
 The video discusses what a race condition is in computer programming, explaining that it occurs when two operations compete for execution at the same time. It highlights the importance of avoiding race conditions by writing solid code and mentions the potential security risks associated with them, such as the possibility of hackers exploiting these vulnerabilities to gain unauthorized access to networks.
 
+## WEEK 08
 31. [Preemptive and Non-Preemptive Scheduling](https://youtu.be/4DhFmL-6SDA?si=0Tj7uYGTePURPYs-)<br>
 The video discusses preemptive and non-preemptive scheduling in the context of CPU scheduling. It explains the roles of the CPU scheduler and dispatcher, introduces key terms like dispatch latency, and explores four circumstances under which CPU scheduling decisions may occur. The distinction between preemptive and non-preemptive scheduling is explained based on whether the CPU is taken away from a process before its execution is complete, with situations 1 and 4 being non-preemptive and situations 2 and 3 being preemptive.
 
@@ -106,3 +109,16 @@ The video is a lecture on process scheduling in operating systems. It covers the
 
 33. [CPU Scheduling in Operating Systems](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/)<br>
 The article is a tutorial on CPU Scheduling in Operating Systems, covering various scheduling algorithms such as First Come First Serve (FCFS), Shortest Job First (SJF), Longest Job First (LJF), Priority Scheduling, Round Robin, Shortest Remaining Time First (SRTF), Longest Remaining Time First (LRTF), Highest Response Ratio Next (HRRN), and Multilevel Feedback Queue Scheduling (MLFQ). It explains the objectives of CPU scheduling algorithms, the need for CPU scheduling, and considerations in designing these algorithms to optimize CPU utilization, fairness, and efficiency. The video also includes a comparison between different CPU scheduling algorithms and an exercise involving multilevel feedback queue scheduling.
+
+## WEEK 09
+34. [Linux Internals: Storage](https://youtu.be/jzcMOObRtLo?si=LysgAmZZ7p7NaZzT)<br>
+This video covers topics related to Linux storage mechanisms, focusing on block devices, disk partitions (MBR and GPT), formatting disk partitions, and how Linux manages these storage elements. The presenter discusses various file systems such as ext4, XFS, Btrfs, and ZFS, as well as how Linux handles block devices by creating entries in the /dev directory. The video also briefly touches on RAID configurations and Logical Volume Management (LVM) for more advanced storage setups.
+
+35. [Bootloaders 101: How Do Embedded Processors Start? - Bryan Brattlof, Texas Instruments](https://youtu.be/UvFG76qM6co?si=KEZxTicXbLLZusaA)<br>
+The video discusses the challenges and intricacies of understanding the boot flow of ARM-based System on Chip (SoC) processors. The speaker, Bryan Brattlof from Texas Instruments, addresses the differences between x86 and ARM-based boot flows, emphasizing the creativity and flexibility manufacturers have in implementing various stages of the boot process. The talk covers topics such as the role of bootloaders, the ARM reference boot flow, the importance of ROM code, and the steps involved in initializing and loading firmware onto ARM processors.
+
+36. [Systemd Deep-Dive: A Complete, Easy to Understand Guide for Everyone](https://youtu.be/Kzpm-rGAXos?si=KFpLHu9VkCMRWabh)<br>
+The video provides a comprehensive guide to systemd. The presenter covers systemd's role as an init system, its significance in managing processes on Linux systems, and proceeds to teach various aspects, from basic operations like starting and stopping services to more advanced topics. The video aims to equip viewers with the knowledge to effectively utilize Systemd for resource management on different Linux distributions.
+
+37. [Linux – Systemd and its Components](https://www.geeksforgeeks.org/linux-systemd-and-its-components/)<br>
+The article discusses systemd, a system designed for the Linux kernel that replaces the sysvinit process. It explores the reasons for systemd's development, its advantages over sysvinit, and provides information on installation and managing services using systemd utilities.
