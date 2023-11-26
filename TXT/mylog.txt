@@ -241,3 +241,13 @@ ZCZC W08 40 L18 Reviewing 10 links
 ZCZC W08 10 L43 Editing myrank.txt
 ZCZC W08 15 L41 Editing mylog.txt
 ZCZC W08 15 L44 Running myscript.sh
+ZCZC W09 15 L05 Studying for Quiz
+ZCZC W09 15 L05 Doing Quiz
+ZCZC W09 180 L19 Doing Assignment 1, 2, and 3
+ZCZC W09 20 L01 Doing Pop Quiz 1 and 2
+ZCZC W09 60 L06 Searching and Watching Several Videos about OS
+ZCZC W09 10 L19 Editing links.md
+ZCZC W09 30 L19 Reviewing 10 links
+ZCZC W09 10 L43 Editing myrank.txt
+ZCZC W09 5 L41 Editing mylog.txt
+ZCZC W09 5 L44 Running myscript.sh
