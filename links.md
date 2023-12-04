@@ -127,11 +127,14 @@ The article discusses systemd, a system designed for the Linux kernel that repla
 38. [Basics of OS (I/O Structure)](https://youtu.be/F18RiREDkwE?si=keOGhPxa1ys4zk5e)</br>
 This video explains that a significant portion of operating system code is dedicated to managing I/O due to its crucial role in the reliability and performance of a system. The video covers how I/O operations function, involving device controllers, local buffer storage, special-purpose registers, and the role of device drivers. Additionally, the video introduces Direct Memory Access (DMA) as a more efficient approach for bulk data movement, minimizing CPU interruptions during I/O operations.
 
-39. [Computer Organization & Architecture Lecture #19 (Input/Output)](https://www.ecs.csun.edu/~cputnam/Comp546/Input-Output-Web.pdf)
+39. [Computer Organization & Architecture Lecture #19 (Input/Output)](https://www.ecs.csun.edu/~cputnam/Comp546/Input-Output-Web.pdf)</br>
 The lecture file discusses the Input/Output (I/O) architecture of computer systems. It covers three principal I/O techniques: programmed I/O, interrupt-driven I/O, and direct memory access (DMA). The lecture explores the purpose of I/O modules, external devices, I/O module structure, I/O mapping, and various I/O techniques, including programmed I/O, interrupt-driven I/O, and DMA. The importance of I/O channels and processors in handling I/O operations is also explained, along with examples of external I/O interfaces like FireWire and Infiniband.
 
-40. [I/O Systems](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/13_IOSystems.html)
+40. [I/O Systems](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/13_IOSystems.html)</br>
 The article discusses the importance of managing I/O devices in operating systems, emphasizing the challenges of standardizing interfaces for a wide range of devices and incorporating new types of devices. It covers I/O hardware, including communication through ports and buses, as well as techniques such as polling, interrupts, and direct memory access. The video also touches on application I/O interfaces, kernel I/O subsystems, scheduling, caching, error handling, and various aspects of I/O processing efficiency.
 
-41. [I/O Hardware in Operating System](https://www.geeksforgeeks.org/i-o-hardware-in-operating-system/)
+41. [I/O Hardware in Operating System](https://www.geeksforgeeks.org/i-o-hardware-in-operating-system/)</br>
 The article discusses I/O Hardware in Operating Systems, highlighting components such as daisy chain, expansion bus, controller, and host adapter. It covers I/O operations through techniques like polling and interrupts, explaining how interrupts are used to notify the CPU when I/O devices need attention. The video emphasizes the significance of I/O hardware in facilitating communication between the computer and external devices, concluding that it is a crucial component of modern operating systems.
+
+42. [Darrel's LFS Chapter 8 Tutorial](https://kronosdp.github.io/os232/Notes/)
+This website is the summarization of the LFS book and Kernotex video. It helps me to compare the output of my LFS and helps me understand LFS Chapter 8 better.
