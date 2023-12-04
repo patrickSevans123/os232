@@ -136,5 +136,5 @@ The article discusses the importance of managing I/O devices in operating system
 41. [I/O Hardware in Operating System](https://www.geeksforgeeks.org/i-o-hardware-in-operating-system/)</br>
 The article discusses I/O Hardware in Operating Systems, highlighting components such as daisy chain, expansion bus, controller, and host adapter. It covers I/O operations through techniques like polling and interrupts, explaining how interrupts are used to notify the CPU when I/O devices need attention. The video emphasizes the significance of I/O hardware in facilitating communication between the computer and external devices, concluding that it is a crucial component of modern operating systems.
 
-42. [Darrel's LFS Chapter 8 Tutorial](https://kronosdp.github.io/os232/Notes/)
+42. [Darrel's LFS Chapter 8 Tutorial](https://kronosdp.github.io/os232/Notes/)</br>
 This website is the summarization of the LFS book and Kernotex video. It helps me to compare the output of my LFS and helps me understand LFS Chapter 8 better.
